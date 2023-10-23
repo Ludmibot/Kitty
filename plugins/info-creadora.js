@@ -20,17 +20,17 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
-let teksbio = `TheZero
-*Wa.me/59897463355*
+let teksbio = `Ludmi
+*Wa.me/5493813300744*
 
-Zero Owner 1	
-*Wa.me/59897463355*
+Ludmi Owner 1	
+*wa.me/5493813300744*
 
-Zero Owner 2
-*Wa.me/59897463355*
+Ludmi Owner 2
+*Wa.me/5493813300744*
 *---------------------*
 
-THEZERO CONTACTO
+Ludmi CONTACTO
 *${asistencia}*`
   let teks = ' '
 const sections = [
